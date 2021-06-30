@@ -1,7 +1,4 @@
 #include <iostream>
-#include <iomanip>
-#include <conio.h>
-#include <Windows.h>
 using namespace std;
 int M, N;
 int W[100], Value[100], w[100], value[100], tui[100];

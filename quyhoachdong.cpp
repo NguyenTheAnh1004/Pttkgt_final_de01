@@ -1,5 +1,5 @@
-#include<bits/stdc++.h>
-#include <iomanip>
+#include<iostream>
+#include<math.h>
 using namespace std;
 int M, N, n;
 int W[100], value[100], tui[100], dp[100][100];
